@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import 'animate.css';
+
 
 import Navbar from './components/navbar/Navbar';
 import Landingpage from './components/landingpage/landingpage';
